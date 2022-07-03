@@ -5,7 +5,7 @@
 
 | Code | Language | Contributor |
 |-|-------|-------|
-| en | English | Thanks to [Theszrosebot](https://t.me/CryptoCibay)
+| en | English | Thanks to [Lucy Harun](https://t.me/CryptoCibay)
 
 
 ### We need your help in translating Rose Bot. How to Contribute?
