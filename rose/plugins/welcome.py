@@ -188,8 +188,8 @@ async def welcome(_, message: Message):
         if member.id == 1942455194:
             await message.reply_text(
                     f"""
-Thanks for adding me to your {group_name}! Don't forget follow
-my news channel @Theszrosebot.
+Thanks for adding me to your {group_name}! Don't forget to thanks
+my creator @asinpeda.
 
 **New to Me, Touch the below button and start me in PM**
                     """,
@@ -211,7 +211,7 @@ my news channel @Theszrosebot.
                 "Wow ! Owner has just joined your chat.",
             )
             return
-        if member.id == 1467358214:#for @supunma 
+        if member.id == 1410732132:#for @asinpeda 
             await app.send_message(
                 message.chat.id,
                 "Wow ! Developer has just joined your chat.",
