@@ -1,8 +1,8 @@
 {
-    "name": "Telegram group manager rose bot",
-    "description": "szrose is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
-    "repository": "https://github.com/szsupunma/sz-rosebot",
-    "logo": "https://telegra.ph/file/38d48fa6ce357927d6d12.jpg",
+    "name": "Telegram rose bot",
+    "description": "rose is an all in one group management bot made for managing your group effectively",
+    "repository": "https://github.com/lucyharun/rose",
+    "logo": "https://telegra.ph/file/679d1e06aaecd9eb6d51b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -11,8 +11,8 @@
     "Group-Manager-bot",
     "pyrogram"
     ],
-    "website": "https://szrosebot.ml",
-    "success_url": "https://t.me/szrosebot",
+    "website": "https://xnxx.com",
+    "success_url": "https://t.me/asinpeda",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
