@@ -1,5 +1,5 @@
 <p align="center">
-      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/679d1e06aaecd9eb6d51b.jpg"></p>
+      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/679d1e06aaecd9eb6d51b.png"></p>
 <h1 align="center"><b>Rose bot ✨</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
 <h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
