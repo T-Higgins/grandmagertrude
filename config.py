@@ -3,7 +3,7 @@ from os import environ
 
 load_dotenv("config.env")
 
-BOT_TOKEN = environ.get("BOT_TOKEN")
+BOT_TOKEN = environ.get("7198587941:AAEQ2A3krDxrEtgf2hGuNgGYICd5sQoODUg")
 API_ID = int(environ.get("API_ID"))
 API_HASH = environ.get("API_HASH")
 API_ID1 = int(environ.get("API_ID1"))
